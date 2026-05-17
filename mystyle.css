@@ -1,0 +1,56 @@
+/* My style */
+
+/* .carousel{
+    height: 450px;
+   
+}
+
+.card img{
+    height: 150px;
+    
+}
+
+.loginpage{
+    height: 80vh;
+    /* display: inline-flex; */
+/* justify-content: center;
+    align-items: center; 
+
+    position: relative;
+
+}
+
+.loginpage .temp{
+    position: absolute !important;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.form-floating textarea{
+    height: 150px !important;
+    resize: none;
+
+} */
+
+/* .form-floating textarea{
+    height: 150px !important;
+    resize: none;
+
+} */
+
+.form-floating textarea {
+    height: 150px !important;
+    resize: none;
+
+}
+
+textarea {
+    resize: none;
+}
+
+img {
+    height: 40px;
+}
